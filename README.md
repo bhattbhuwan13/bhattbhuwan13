@@ -6,7 +6,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ML, CV, and GAN
 - 📫 How to reach me: Twitter - @bhattbhuwan13, ✉️ bhuwan@bhuwanbhatt.com
-- 🔗 bhuwanbhatt.com
+- 🔗 https://bhuwanbhatt.com
 <!-- - 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
