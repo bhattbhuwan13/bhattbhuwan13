@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ML, CV, and GAN
-- 📫 How to reach me: Twitter - [@bhattbhuwan13](twitter.com/bhattbhuwan13), ✉️ bhuwan@bhuwanbhatt.com
+- 📫 How to reach me: Twitter - [@bhattbhuwan13](https://twitter.com/bhattbhuwan13), ✉️ bhuwan@bhuwanbhatt.com
 - 🔗 https://bhuwanbhatt.com
 <!-- - 😄 Pronouns:
 - ⚡ Fun fact: ...
